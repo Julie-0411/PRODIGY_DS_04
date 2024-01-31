@@ -29,7 +29,9 @@ pip install numpy pandas matplotlib seaborn textblob
 Once you have the required libraries installed, you can run the notebook to see the sentiment analysis system in action.
 
 # **Data** 
-The data used in this project is from the amazon for food products which summarizes the reviews of the user.
+The data used in this project is from the amazon for food products which summarizes the reviews of the user. Dataset link is given below:
+
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 **Analysis**
 
