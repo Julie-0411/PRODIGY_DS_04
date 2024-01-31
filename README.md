@@ -45,3 +45,5 @@ Visualizing the sentiment distribution using histograms and scatterplots
 The sentiment analysis system produces the following results:
 
 A histogram of the sentiment polarity distribution
+
+![image](https://github.com/Julie-0411/PRODIGY_DS_04/assets/156679415/f18a656c-cc32-4c06-a8e7-8b729048906d)
